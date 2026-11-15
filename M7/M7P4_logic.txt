@@ -1,0 +1,3 @@
+M7P4 - Logic / Pseudocode
+
+Set total gross pay and employee count to zero. Ask whether to continue. While Yes: read employee last name, hours and hourly rate. If hours exceed 40, pay the extra hours at 1.5 times the rate; otherwise pay hours times rate. Display employee and gross pay, accumulate gross pay and count, ask again. After loop show total gross pay, employee count and average (if count > 0).

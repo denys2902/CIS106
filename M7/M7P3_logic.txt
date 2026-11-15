@@ -1,0 +1,3 @@
+M7P3 - Logic / Pseudocode
+
+Set student count to zero. Ask whether to continue. While answer is Yes: read last name and two scores, calculate their average, display last name and average, increment count, ask again. After loop display count.

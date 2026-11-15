@@ -1,0 +1,3 @@
+M7P1 - Logic / Pseudocode
+
+Set number to 1. While number is at most 25, display number and increase it by 2. Stop when number exceeds 25.

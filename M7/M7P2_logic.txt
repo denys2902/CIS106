@@ -1,0 +1,3 @@
+M7P2 - Logic / Pseudocode
+
+Read start, stop and increment. If increment is not positive, show an error. Otherwise set number to start. While number is at most stop, display it and add increment.
