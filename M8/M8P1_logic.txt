@@ -1,0 +1,1 @@
+Input principal and interest rate. Save initial principal. Repeat for years 1 through 5: calculate interest, ending balance; print year, beginning and ending balances; carry ending balance to next year. Print total earned interest.

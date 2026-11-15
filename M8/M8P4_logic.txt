@@ -1,0 +1,1 @@
+Open items data file. For each item/quantity/price triple: compute extended price, display item, quantity, price and extended price; add to sum and increment count. Print sum, count and average if count is nonzero.

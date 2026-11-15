@@ -1,0 +1,8 @@
+Widget: Quantity 10, Price $50.00, Extended $500.00
+Hammer: Quantity 2, Price $10.00, Extended $20.00
+Saw: Quantity 4, Price $8.00, Extended $32.00
+Drill: Quantity 3, Price $75.00, Extended $225.00
+Nails: Quantity 20, Price $3.00, Extended $60.00
+Sum of extended prices: $837.00
+Number of orders: 5
+Average order: $167.40

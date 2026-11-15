@@ -1,0 +1,6 @@
+Adams: Salary $50,000.00, Bonus $7,500.00
+Baker: Salary $75,000.00, Bonus $11,250.00
+Smith: Salary $45,000.00, Bonus $4,500.00
+Johnson: Salary $110,000.00, Bonus $22,000.00
+Garcia: Salary $35,000.00, Bonus $3,500.00
+Total bonuses paid: $48,750.00

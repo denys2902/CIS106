@@ -1,0 +1,1 @@
+Open employee data file. For each last-name/salary pair: choose 20% if salary >= 100000, else 15% if salary >= 50000, else 10%; calculate bonus, add to sum, display name, salary and bonus. Print sum.

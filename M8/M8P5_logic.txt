@@ -1,0 +1,1 @@
+Open students data file. For each name/district-code/credits triple: rate = 250 if I else 500; tuition = credits * rate. Display name, credits, tuition; accumulate tuition and count. Print totals.

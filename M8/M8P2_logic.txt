@@ -1,0 +1,1 @@
+Start with 1 and 1. Repeat 20 times: print current Fibonacci number, update the two numbers to the next pair.

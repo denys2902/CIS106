@@ -1,0 +1,7 @@
+Enter principal amount: Enter interest rate (e.g. 0.10): Year     Beginning Balance      Ending Balance
+1     $          10,000.00$          11,000.00
+2     $          11,000.00$          12,100.00
+3     $          12,100.00$          13,310.00
+4     $          13,310.00$          14,641.00
+5     $          14,641.00$          16,105.10
+Total interest earned: $6,105.10

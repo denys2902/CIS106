@@ -1,0 +1,7 @@
+Jones: Credits 12, Tuition owed $3,000.00
+Adams: Credits 10, Tuition owed $2,500.00
+Baker: Credits 12, Tuition owed $6,000.00
+Smith: Credits 16, Tuition owed $8,000.00
+Garcia: Credits 9, Tuition owed $2,250.00
+Total tuition owed: $21,750.00
+Number of students: 5
