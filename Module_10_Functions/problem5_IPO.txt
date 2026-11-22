@@ -1,0 +1,10 @@
+Module 10 - Problem 5 IPO / Logic
+
+INPUT:
+County, market value, Yes/No
+
+PROCESS:
+Function chooses assessed percent: Cook .90, DuPage .80, McHenry .75, Kane .60, all others .70. Multiply market value by percent. Accumulate market and assessed totals. Repeat while Yes.
+
+OUTPUT:
+Assessed value for each house, total market and assessed values

@@ -1,0 +1,10 @@
+Module 10 - Problem 3 IPO / Logic
+
+INPUT:
+Make, model, electric code Y/N, MSRP, Yes/No
+
+PROCESS:
+Function selects MSRP discount: electric 30%; Honda Accord 10%; Toyota Rav4 15%; otherwise 5%. Final = (MSRP - MSRP*discount)*1.07. Accumulate MSRP and final sales totals. Repeat while Yes.
+
+OUTPUT:
+Individual final sale price, total MSRP, total final sales

@@ -1,0 +1,10 @@
+Module 10 - Problem 4 IPO / Logic
+
+INPUT:
+Last name, miles from downtown Chicago, Yes/No
+
+PROCESS:
+Function selects ticket price: 30+ miles $12; 20-29 $10; 10-19 $8; otherwise $5. Accumulate ticket prices. Repeat while Yes.
+
+OUTPUT:
+Last name, ticket price, sum of all tickets

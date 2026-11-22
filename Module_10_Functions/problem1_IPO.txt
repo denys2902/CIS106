@@ -1,0 +1,10 @@
+Module 10 - Problem 1 IPO / Logic
+
+INPUT:
+Last name, month, sales, Yes/No
+
+PROCESS:
+Choose month forecast percentage (Jan-Mar 10%; Apr-Jun 15%; Jul-Sep 20%; Oct-Dec 25%). Function returns sales * (1 + percentage). Repeat while Yes.
+
+OUTPUT:
+Last name and next-month sales forecast

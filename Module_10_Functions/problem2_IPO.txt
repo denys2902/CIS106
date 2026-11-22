@@ -1,0 +1,10 @@
+Module 10 - Problem 2 IPO / Logic
+
+INPUT:
+Length, width, height, Yes/No
+
+PROCESS:
+Function returns 2*length*height + 2*width*height. Divide by 50 for wall paint gallons. Bonus: function returns length*width; divide by 50 for ceiling/floor gallons. Repeat while Yes.
+
+OUTPUT:
+Wall area, wall gallons; bonus ceiling/floor area and gallons
